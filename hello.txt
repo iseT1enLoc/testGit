@@ -1,8 +1,6 @@
 Tao file dau tien tren git
-<<<<<<< HEAD
 
 Loc vua sua tren branch Loc
-=======
+Loc is here
 Duong was here
 Thang is here
->>>>>>> 51c980ba38403c480360af231b194aaec58b3794
