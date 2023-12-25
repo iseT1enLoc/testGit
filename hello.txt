@@ -1,2 +1,7 @@
 Tao file dau tien tren git
+<<<<<<< HEAD
 Hello minh la Hien 
+=======
+Duong was here
+Thang is here
+>>>>>>> 51c980ba38403c480360af231b194aaec58b3794
