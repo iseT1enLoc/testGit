@@ -1,7 +1,15 @@
 Tao file dau tien tren git
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello minh la Hien 
 =======
 Duong was here
 Thang is here
 >>>>>>> 51c980ba38403c480360af231b194aaec58b3794
+=======
+
+Loc vua sua tren branch Loc
+Loc is here
+Duong was here
+Thang is here
+>>>>>>> 24b0e1ce4e44f36f84c1d384de5b287744e4f54f
